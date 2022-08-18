@@ -1,6 +1,4 @@
 ---
-description: >-
-  How to use Github Pages to host a blog with Jekyll Chirpy theme
 title: How to setup Obisidan with GitHub                    # Add title of the machine here
 date: 2022-08-18 08:00:00 -0600                           # Change the date to match completion date
 categories: [Tips & Tricks]                     # Categories
