@@ -21,12 +21,12 @@ timezone: Europe/Stockholm
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Johan Test                          # the main title
+title: Johan Malmros                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: The Hybrid Network Security guy wearing a Cybersecurity costume and glasses   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Wow! wow.... A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://jomatech.github.io'
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -83,7 +83,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar/MyAvatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
