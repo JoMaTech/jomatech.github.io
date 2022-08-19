@@ -1,10 +1,10 @@
 ---
 description: >-
   My first post just to get started!
-title: First post                    # Add title of the machine here
+title: My first post about my PKM setup                    # Add title of the machine here
 date: 2022-08-18 08:00:00 -0600      # Change the date to match completion date
 categories: [Tips & Tricks]           # Categories
-tags: [general]     # TAG names should always be lowercase; add relevant tags
+tags: [general, pkm, obsidian, github, vscode]     # TAG names should always be lowercase; add relevant tags
 show_image_post: true                 # Change this to true
 #image: /assets/img/Sonic.png  # Add image here for post preview image
 ---
@@ -15,7 +15,7 @@ A post to test that my setup works as it are supposed.
 
 First what PKM is: ** PKM - Personal Knowledge Management**
 
-![[../../assets/img/20220819-PKM_overview.png]]
+![[../../assets/img/20220819-PKM_overview.png](/assets/img/20220819-PKM_overview.png)
 
 My setup consist of:
 - Obsidian - for creating of the posts in markdown.
