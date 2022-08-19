@@ -15,7 +15,7 @@ A post to test that my setup works as it are supposed.
 
 First what PKM is: ** PKM - Personal Knowledge Management**
 
-![[../../assets/img/20220819-PKM_overview.png](/assets/img/20220819-PKM_overview.png)
+![[../../assets/img/20220819-PKM_overview.png]](/assets/img/20220819-PKM_overview.png)
 
 My setup consist of:
 - Obsidian - for creating of the posts in markdown.
