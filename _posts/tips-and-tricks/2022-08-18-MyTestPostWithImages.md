@@ -18,9 +18,10 @@ image: /assets/img/Sonic.png  # Add image here for post preview image
 
 ### Undermeny
 
-![[assets/img/Sonic.png]]
+![[/assets/img/Sonic.png]](/assets/img/Sonic.png)
+
 
 
 ### New test image
 
-![[../../assets/img/20220819-MyTEstPost_Image2.png]]
+![[../../assets/img/20220819-MyTEstPost_Image2.png]](../../assets/img/20220819-MyTEstPost_Image2.png)
