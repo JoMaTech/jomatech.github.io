@@ -23,7 +23,7 @@ timezone: Europe/Stockholm
 
 title: Johan Malmros                          # the main title
 
-tagline: The Hybrid Network Security guy wearing a Cybersecurity costume and glasses   # it will display as the sub-title
+tagline: The Hybrid Network Security guy wearing a Cybersecurity costume!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
