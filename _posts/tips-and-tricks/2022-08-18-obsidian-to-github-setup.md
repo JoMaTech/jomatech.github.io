@@ -1,4 +1,6 @@
 ---
+description: >-
+  How to upgrade a linux reverse shell to a fully usable TTY shell
 title: How to setup Obisidan with GitHub                    # Add title of the machine here
 date: 2022-08-17 08:00:00 -0600                           # Change the date to match completion date
 categories: [Tips & Tricks]                     # Categories
